@@ -23,5 +23,11 @@ Ce petit projet montre comment :
 
 1. **Cloner le repo**  
 ```bash
-git clone https://github.com/ton-utilisateur/mon-projet.git
+git clone https://github.com/Feyem9/facebook-market-place.git
 cd mon-projet
+
+2. **Creer un environement virtuel**
+python3 -m venv .venv
+source . .venv/bin/activate
+
+3. Installer les dépendances
