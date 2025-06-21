@@ -1,0 +1,16 @@
+file:///home/dongueu/Downloads/facebook-market-place-fv-firebase-adminsdk-fbsvc-1e3dae4521.json
+
+
+{
+  "type": "service_account",
+  "project_id": "facebook-market-place-fv",
+  "private_key_id": "1e3dae4521fd1ccb58c765b97750ff0a44004d58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFHImug8R2cdAZ\nCbnuRylwVX0d3huAenIand75ceyKiajYTfCMM59eU80+VmgeR/Qtm2NIgnRcZaqQ\nKyz9ypgMIpdXHLYJjB/W7Gvo0uBRUAn6YnpBzX4AktVg7RpfkvR236ikiUX9A69f\nvslHW4y3EnrG27zH3HqmgGvaTVuBF7/OjY+CXqN+OYL1lFw8Sz4eB/CwQmQB6hne\nUBUiYWocqu5EA2h3Qr2yKyIWoxCwxDccnRK0rHm1IXEqQDhd+djjFQrcFXFkjW8B\n2gZaa81cT97Kf9n+0OBHIj8EqSPVzXFUXS7ShklC1gT8QN6MDcfw4dYZCUMmSBpK\nr4/uSkf3AgMBAAECggEAIvCRE0c2Lwyzp4yK0cr5dHki6YVyeI675S3w1WS1WkVW\nkakXJ7MK3+yY6CDm6d81UFRIABVnzO0Uk+OjYQVleFk1XHKxbfXRuwZDhozCyIcY\njbKhG0Lyv+VHP5wn3aMuBFhXC3tt1ZCuqJkoEqcOxXDYJKHUz9SsRRFkjNjDjJk6\nTKKR8KbP+2wK419aK9qxI8J0eiFbsn+DsRgQUkHgCbAW70eebluJo8ORLKpOFXAt\nxqP50FeQDy66ay4NH2WDlDDT9NmZc2LYsrZjMgjV2K6KJXxwyDnSkQ31jvW9Y/wi\nsoBExLphjYFEQLvVJDEhvV8UZBcgsN65BZNevvF18QKBgQDwNNZI2Oa5S++U19Uk\nlwepLfivveKu2cn3gI4bA5+nS6/CEd6qyCiurNDTWqohA9vELQV5c8shMUh2+Ilk\nVA6I7F20kBoQuvv70DBRbT596E9NUo09JgHhzywxCLjmoaF0512YRnF1nCeolBM5\nbwJXJSPxxkCGKdq0x/aVEYn5/wKBgQDSElNTuY+GMFlZVmXeZHqscN9zcSHmCYix\nrekVPX5jbeEiNILjUrmJwi4xBhI3w1XmgAxLeqFMYOFLP0GhbsRaIQ/J/xVwujip\nkXRWAVcBoVhdudMM3d0aIJigrxyt58f39djMLzzRL30dRZnTY9IJXd7zvsvk8Eao\nj8gcroOCCQKBgFNjFEyft6D14or6TkzwfUFW6zEfKzVl974LC8oG/QKXvMETcQg6\nihzxc2Eb5VmmvEEjG/Zoo0i3kh9y8kc5Av63h2QqblIGh3mIcW2jDgGphvYhxVRI\nAHlCcWXoUEAINkOeGhjFw5d/iSj1lqLmjZpxE0RYfYfVuc3uaQSg3RRDAoGAZG5m\ncAyy1VCgJtnrcdtP2slLywE3V6cPNwMSABmaJycNDzFTsiKGmZnAQ6fHZel5U+27\n8wn5u25Fx5fCZM90CDLuPYA6W95r4IWtvMB/PERK3uRMRkZ7wlX7IjcV2v6I178t\nmtCqnse5ZRk1ZZ6/d8LtKFL7X8SPw16aKTw1myECgYAGYqQmZ5++BZFfCtkdd/nz\nmOkZMIGtzi7ofzjggxIX4FGv19TcC96r2gW3AYurZt8B/ItWODw8SNL4MD+nFRt7\nkc60nHrv0KZnDChnShZs/1lXt9g7Uh3boVVeg1toOe1xEK0EG5FsDzUi2SKzDrG0\nvXT8w6TJL31aZ/cIcxS6Qg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@facebook-market-place-fv.iam.gserviceaccount.com",
+  "client_id": "102130829712341733565",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40facebook-market-place-fv.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
